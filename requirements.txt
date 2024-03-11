@@ -1,5 +1,5 @@
 scikit-learn==0.22.1
-pip install Cython>=0.28.5
+Cython>=0.28.5
 numpy
 pandas
 matplotlib
